@@ -32,6 +32,8 @@ Balance Accuracy Score and the Imbalamced Classification Report (ICR) are the tw
     - Avg : 0.56
     - high-risk prediction : 0.01 -- very poor
 
+
+
 ### Combination Sampling
 
 - Second worst
@@ -47,6 +49,11 @@ Balance Accuracy Score and the Imbalamced Classification Report (ICR) are the tw
 - F-score
     - Avg : 0.80
     - High-risk prediction : 0.02
+
+<img width="346" alt="smote_bal_acc" src="https://user-images.githubusercontent.com/70616488/127429082-f4e3396a-3b7f-4625-9d43-2bdb406f9ada.png">
+<img width="701" alt="smote_imbal_class" src="https://user-images.githubusercontent.com/70616488/127429101-dada4d91-f6cd-4f59-95b8-bc86877984fb.png">
+
+
 
 ### Naive Random Oversampling 
 
